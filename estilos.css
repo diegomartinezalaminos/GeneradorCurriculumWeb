@@ -1,0 +1,28 @@
+body {
+    background-color: aliceblue;
+}
+div {
+    border: solid 3px black;
+    background-color: rgb(218, 237, 253);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 20px;
+}
+h1 {
+    color: black;
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h3 {
+    padding-left: 10px;
+}
+
+p {
+    padding-left: 25px;
+}
+
+
+
+
+

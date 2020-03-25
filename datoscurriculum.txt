@@ -1,0 +1,24 @@
+>>>nombre
+Diego Martínez Alaminos
+>>>telefono
+693211968
+>>>correo
+diegomartinez@gmail.com
+>>>habilidades
+Java
+Python
+Bash
+HTML
+JS
+CSS
+SQL
+>>>formacion
+Grado Medio Sistemas Microinformáticos y redes
+LPI Essentials
+CCNA R&S: Introduction to Networks
+Curso de SQL desde Cero por OpenWebBinars
+Curso de SCRUM tecnico por OpenWebBinars
+>>>experiencia laboral
+Testing manual en java en CGI
+Testing manual en CGI
+>>>fin
